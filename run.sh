@@ -4,4 +4,4 @@ RUNTIME=$1
 echo $1
 dotnet restore
 dotnet publish -r $RUNTIME -c Release
-bin/Release/netcoreapp3.0/$RUNTIME/publish/aws-lambda-netcore3-readytorun-dapper
+bin/Release/netcoreapp3.0/$RUNTIME/publish/netcore3-readytorun-dapper
