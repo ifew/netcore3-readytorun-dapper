@@ -1,4 +1,4 @@
-# Example AWS Lambda C# .NET Core 3.0 Release and ReadyToRun with connect MySQL via Dapper Library
+# Example C# .NET Core 3.0 Release and ReadyToRun with connect MySQL via Dapper Library
 
 ## Preparing
 
